@@ -13,6 +13,7 @@ Here is the dataset for classifying the different classes of traffic signs. Ther
 
 ## Technologies Used
 This project was implemented using the following technologies:
+
 pandas: for building the dataframe
 
 TensorFlow and Keras: for building and training the deep learning model.
